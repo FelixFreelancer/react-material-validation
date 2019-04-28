@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/.material-validation(4-27).zip
+/.material-validation(4-27-V-2).zip
 
 # testing
 /coverage
